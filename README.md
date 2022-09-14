@@ -9,3 +9,25 @@ An application for creating memories and sharing with your friends.
 ![image](https://user-images.githubusercontent.com/71844445/190237590-d59c261d-5479-4748-85c1-2ea19b1986c7.png)
 ![image](https://user-images.githubusercontent.com/71844445/190237685-2d0318f3-195c-45de-b962-0c293ab22152.png)
 
+
+## Installation and Setup Instructions
+
+#### Example:  
+
+Clone down this repository. `git clone ` You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Run Test Suite:  
+
+`npm test`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`localhost:3000/ideas`  

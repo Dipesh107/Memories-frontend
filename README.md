@@ -14,7 +14,7 @@ An application for creating memories and sharing with your friends.
 
 #### Example:  
 
-Clone down this repository. `git clone ` You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository. `git clone https://github.com/Dipesh107/Memories-frontend.git` You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
 

@@ -1,7 +1,7 @@
 ## Memories - Social Media App
 An application for creating memories and sharing with your friends.
 
-## Live Demo at https://memories-frontend-chi.vercel.
+## Live Demo at https://memories-frontend-chi.vercel.app/posts
 
 ## Project Screen Shots
 ![image](https://user-images.githubusercontent.com/71844445/190237449-0ddd6577-5771-46b5-ab1c-891b34da288c.png)
@@ -25,3 +25,5 @@ Then follow Installation steps as follows.
 2.To Start Server: `npm start`  
 
 3.To Visit App: `localhost:3000`  
+
+4.To fully run the app you need the backend of the app which is available here at https://github.com/Dipesh107/Memories-Backend .

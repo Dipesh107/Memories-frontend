@@ -14,20 +14,14 @@ An application for creating memories and sharing with your friends.
 
 #### Example:  
 
-Clone down this repository. `git clone https://github.com/Dipesh107/Memories-frontend.git` You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository. Using `git clone https://github.com/Dipesh107/Memories-frontend.git`.
+You will need `node` and `npm` installed globally on your machine.
 
-Installation:
+After cloning folder named `client` will be created and you need to move to that folder using command `cd client`.
+Then follow Installation steps as follows.
 
-`npm install`  
+1.Installation: `npm install`  
 
-To Run Test Suite:  
+2.To Start Server: `npm start`  
 
-`npm test`  
-
-To Start Server:
-
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
+3.To Visit App: `localhost:3000`  

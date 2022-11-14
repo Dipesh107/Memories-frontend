@@ -47,7 +47,7 @@ git commit -m "first commit"
 git branch -M main
 Once this is done, we can now push to the created remote repository using the following commands:
 
-git remote add origin https://github.com/olawanlejoel/random-quotes.git
+git remote add origin https://github.com/Dipesh107/Memories-frontend
 git push -u origin main
 N.B., replace the GitHub remote URL with yours.
 
